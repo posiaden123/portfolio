@@ -3,5 +3,4 @@
 
 Banking-https://github.com/posiaden123/SimpleBankingApp/tree/main
 
-Virtual Piano-A simulated 1 octave piano 
 
