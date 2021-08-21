@@ -3,4 +3,6 @@
 
 Banking-https://github.com/posiaden123/SimpleBankingApp/tree/main
 
+WebScraper using Selenium - https://github.com/posiaden123/LNMTL-TranslationLibrary-to-EPUB
+
 
