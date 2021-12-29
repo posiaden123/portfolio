@@ -5,4 +5,11 @@ Banking-https://github.com/posiaden123/SimpleBankingApp/tree/main
 
 WebScraper using Selenium - https://github.com/posiaden123/LNMTL-TranslationLibrary-to-EPUB
 
+Fullstack Bank Website - https://github.com/posiaden123/FullstackBankApp
+
+basic python currency converter - https://github.com/posiaden123/currency-converter
+
+python recipie summarizer - https://github.com/posiaden123/recipe-finder
+
+
 
